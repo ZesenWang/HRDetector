@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\MyApplication\\FailedHRDetector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\wangz\\.android\\build-cache\\5775ab582bcf23684219abed97f1f02c82aca925\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\MyApplication\\FailedHRDetector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\wangz\\.android\\build-cache\\5775ab582bcf23684219abed97f1f02c82aca925\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\MyApplication\\FailedHRDetector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\wangz\\.android\\build-cache\\5775ab582bcf23684219abed97f1f02c82aca925\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\MyApplication\\FailedHRDetector\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\wangz\\.android\\build-cache\\5775ab582bcf23684219abed97f1f02c82aca925\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]
